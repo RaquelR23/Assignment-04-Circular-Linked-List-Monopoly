@@ -47,6 +47,3 @@ The other player is declared the winner, regardless of their current money or ca
 -The score is calculated using this formula:
 -Final Score = Remaining Money + (Care Points × 50)
 -Each care point is worth $50 in the final score. The player with the higher score wins. If both players have the same score, the game ends in a tie.
-
-
-Delete the list: Free the dynamically allocated memory when the program finishes.
